@@ -1,0 +1,16 @@
+accelerate==1.1.1
+deepspeed==0.15.4
+distilabel==1.5.3
+evaluate==0.4.3
+huggingface_hub==0.26.2
+ipython==8.12.3
+matplotlib==3.10.1
+numpy==2.2.3
+pandas==2.2.3
+peft==0.14.0
+safetensors==0.5.3
+torch==2.5.1+cu118
+tqdm==4.67.0
+transformers==4.45.0
+trl==0.11.4
+modelscope==1.23.1
